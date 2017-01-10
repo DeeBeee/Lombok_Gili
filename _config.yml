@@ -10,8 +10,8 @@ description: Lumbungs with European Standard Living in the Beautiful Gili Island
   Central Location near Beach, near main shops & harbour, Short Walking distance to Restaurants. 
   Swimming Pool , Kitchen - Food & Drink available on site. 
   PADI Professional Divers available, Free WiFi Access, Private Rooms with King Size Beds, Mosquito Nets available.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2017 DeeBee. All Rights Reserved.'
+ # credits: 'Credits:Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - title: contact 
+    url deebeee@hotmail.com
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url: 
